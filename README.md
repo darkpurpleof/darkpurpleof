@@ -37,12 +37,12 @@ I'm `darkpurpleof` and here is a little about me:
 
 ## 📂 Projects
 
-### Project 1
+### Personal Website
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=darkpurpleof&repo=darkpurpleof.github.io&theme=ambient_gradient)](https://github.com/darkpurpleof/darkpurpleof.github.io)
 - Description: This project is a web application that allows users to manage and connect with my services efficiently.
 - Technologies: HTML, Javascript
 
-### Project 2
+### Complementary App
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=darkpurpleof&repo=darkpurpleofswebsite-app&theme=ambient_gradient)](https://github.com/darkpurpleof/darkpurpleofswebsite-app)
 - Description: The mobile app add-on for my website (Android only).
 - Technologies: Kotlin, Firebase, Jetpack Compose
